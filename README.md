@@ -17,11 +17,10 @@ Click "Send Request" above each section to verify all endpoints.
 
 ---
 
-## 🧪 test.http (use this filename instead of test.rest)
+## 🧪 test.http
 
-Rename your earlier `test.http` file to `test.http` (the REST Client uses `.http`).
 
-Contents (as before):
+Contents:
 
 ```http
 ### Get all books
